@@ -118,8 +118,6 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-  sidebar:
-    nav: "main"
 
 # Site Footer
 footer:
@@ -278,8 +276,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      sidebar:
-        nav: "main"
       read_time: false
       show_date: true
       comments: # true
