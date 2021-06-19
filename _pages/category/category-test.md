@@ -1,7 +1,7 @@
 ---
 title: "Test"
 layout: archive
-permalink: categories/test
+permalink: category/test
 author_profile: true
 sidebar_main: true
 ---
