@@ -6,8 +6,6 @@ main:
     url: /about/
   - title: "Posts"
     url: /post/
-  - title: "윤동주"
-    url: /categories/yun/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
