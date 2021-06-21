@@ -7,5 +7,3 @@ taxonomy: test1
 sidebar:
   nav: "docs"
 ---
-
-왜 안나오냐
