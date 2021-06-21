@@ -15,10 +15,10 @@ docs:
   - title: Test
     children:
       - title: "Test1"
-        url: /categories/#test1
+        url: /categories/test1
       - title: "Test2"
-        url: /categories/#test2
+        url: /categories/test2
       - title: "Test3"
-        url: /categories/#test3
+        url: /categories/test3
       - title: "Test4"
-        url: /categories/#test4
+        url: /categories/test4
