@@ -12,6 +12,11 @@ main:
   #   url: /sitemap/
   
 docs:
+  - title: Coding Test
+    children:
+      - title: "프로그래머스"
+        url: /categories/programmers/
+        
   - title: Test
     children:
       - title: "Test1"
