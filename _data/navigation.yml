@@ -15,7 +15,7 @@ side_category:
   - title: Coding Test
     children:
       - title: "프로그래머스"
-      url: /categories/programmers/
+        url: /categories/programmers/
         
   - title: Test
     children:
