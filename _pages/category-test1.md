@@ -5,5 +5,5 @@ layout: category
 author_profile: true
 taxonomy: test1
 sidebar:
-  nav: "docs"
+  nav: "side_category"
 ---
