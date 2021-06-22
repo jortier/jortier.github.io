@@ -11,13 +11,12 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   
-coding_test:
-  - title: Coding Test
+sidebar:
+    - title: Coding Test
     children:
       - title: "프로그래머스"
         url: /categories/programmers/
-
-test:
+        
   - title: Test
     children:
       - title: "Test1"
